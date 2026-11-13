@@ -1,0 +1,17 @@
+[
+  { "id": 1,  "nome": "T-shirt Algodão 150g",     "ref": "TSH-150-BR", "cor": "Branco",       "tamanho": "M",   "quantidade": 320, "localizacao": "Armazém A - Prateleira 01", "fornecedor_id": "F002" },
+  { "id": 2,  "nome": "T-shirt Algodão 150g",     "ref": "TSH-150-PR", "cor": "Preto",        "tamanho": "L",   "quantidade": 275, "localizacao": "Armazém A - Prateleira 01", "fornecedor_id": "F002" },
+  { "id": 3,  "nome": "T-shirt Algodão 190g",     "ref": "TSH-190-AZ", "cor": "Azul Marinho", "tamanho": "XL",  "quantidade": 140, "localizacao": "Armazém A - Prateleira 02", "fornecedor_id": "F005" },
+  { "id": 4,  "nome": "Polo Piqué",               "ref": "POL-210-BR", "cor": "Branco",       "tamanho": "M",   "quantidade": 95,  "localizacao": "Armazém A - Prateleira 03", "fornecedor_id": "F002" },
+  { "id": 5,  "nome": "Polo Piqué",               "ref": "POL-210-VM", "cor": "Vermelho",     "tamanho": "S",   "quantidade": 60,  "localizacao": "Armazém A - Prateleira 03", "fornecedor_id": "F005" },
+  { "id": 6,  "nome": "Sweatshirt Gola Redonda",  "ref": "SWT-280-CZ", "cor": "Cinza",        "tamanho": "L",   "quantidade": 110, "localizacao": "Armazém A - Prateleira 04", "fornecedor_id": "F005" },
+  { "id": 7,  "nome": "Sweatshirt com Capuz",     "ref": "HOD-300-PR", "cor": "Preto",        "tamanho": "XL",  "quantidade": 45,  "localizacao": "Armazém A - Prateleira 04", "fornecedor_id": "F002" },
+  { "id": 8,  "nome": "Caneca Cerâmica 350ml",    "ref": "CAN-350-BR", "cor": "Branco",       "tamanho": null,  "quantidade": 500, "localizacao": "Armazém B - Corredor 1",    "fornecedor_id": "F001" },
+  { "id": 9,  "nome": "Caneca Mágica 300ml",      "ref": "CAN-300-MG", "cor": "Preto",        "tamanho": null,  "quantidade": 85,  "localizacao": "Armazém B - Corredor 1",    "fornecedor_id": "F004" },
+  { "id": 10, "nome": "Garrafa Alumínio 500ml",   "ref": "GAR-500-AL", "cor": "Prateado",     "tamanho": null,  "quantidade": 230, "localizacao": "Armazém B - Corredor 2",    "fornecedor_id": "F001" },
+  { "id": 11, "nome": "Garrafa Térmica 750ml",    "ref": "GAR-750-TR", "cor": "Azul",         "tamanho": null,  "quantidade": 70,  "localizacao": "Armazém B - Corredor 2",    "fornecedor_id": "F004" },
+  { "id": 12, "nome": "Saco Tote Algodão",        "ref": "SAC-140-NT", "cor": "Natural",      "tamanho": null,  "quantidade": 600, "localizacao": "Armazém B - Corredor 3",    "fornecedor_id": "F003" },
+  { "id": 13, "nome": "Boné 5 Painéis",           "ref": "BON-005-VD", "cor": "Verde",        "tamanho": "Único", "quantidade": 150, "localizacao": "Armazém A - Prateleira 05", "fornecedor_id": "F003" },
+  { "id": 14, "nome": "Esferográfica Plástico",   "ref": "ESF-001-AZ", "cor": "Azul",         "tamanho": null,  "quantidade": 2500, "localizacao": "Armazém B - Corredor 4",   "fornecedor_id": "F001" },
+  { "id": 15, "nome": "Caderno A5 Capa Cartão",   "ref": "CAD-A5-KR",  "cor": "Kraft",        "tamanho": "A5",  "quantidade": 40,  "localizacao": "Armazém B - Corredor 4",    "fornecedor_id": "F004" }
+]
